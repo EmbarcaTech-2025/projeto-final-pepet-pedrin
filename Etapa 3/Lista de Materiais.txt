@@ -1,0 +1,5 @@
+- Microcontrolador ESP32
+- LED
+- Buzzer
+- Bateria LiPo 3.7V
+- Circuito de proteção de carregamento
